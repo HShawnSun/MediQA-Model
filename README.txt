@@ -1,3 +1,15 @@
+NLP Summer Research Assistant
+Computer Science and Artificial Intelligence Laboratory, University of Nottingham, 
+Ningbo, China.
+Explored the feasibility of Bert-like models for machine reading comprehension of small 
+text in specialized areas; selected and blended different classes of Bert-like models to 
+pursue better performance on small text data obtained from medical illustration videos; 
+attempted to train field-specific MRC model for medical Q&A tasks, tuning parameters; 
+tested and evaluated the performance; NLP skillsets increased by interacting with 
+supervisor and Ph.D. students; attained a deeper understanding of DL & RL formulas; 
+research contributed to Ningbo 2025 Sci & Tech Innovation Program.
+
+
 预测步骤：
 关黄母颗粒问答预测
 sh test_bert_ghm.sh

@@ -22,7 +22,13 @@ sh test_bert_dbf.sh   执行此脚本时，按照metrics.py 730行 提示 更改
 --version_2_with_negative: 开启适配于数据中有无答案数据
 --threads: 数据处理所使用的线程数
 
+## Prediction steps.
+关黄母 granules quiz prediction sh test_bert_ghm.sh butanol quiz prediction sh test_bert_dbf.sh When executing this script, follow metrics.py line 730 Prompt Change storage address
 
+## Parameters.
+--lm: the name of the folder where the model is to be loaded --do_train: turn on training --evaluate_during_training: turn on validation during training --do_test: turn on prediction --version_2_with_negative: turn on adaptation to data with or without answer data --threads : the number of threads used for data processing
+
+Translated with www.DeepL.com/Translator (free version)
 
 
 

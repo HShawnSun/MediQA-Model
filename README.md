@@ -28,8 +28,6 @@ sh test_bert_dbf.sh   执行此脚本时，按照metrics.py 730行 提示 更改
 ## Parameters.
 --lm: the name of the folder where the model is to be loaded --do_train: turn on training --evaluate_during_training: turn on validation during training --do_test: turn on prediction --version_2_with_negative: turn on adaptation to data with or without answer data --threads : the number of threads used for data processing
 
-Translated with www.DeepL.com/Translator (free version)
-
 
 
 

@@ -1,3 +1,4 @@
+# Bert-like Models feasibility Exploration on Medical Short-Text Q&A Tasks
 Explored the feasibility of Bert-like models for machine reading comprehension of small 
 text in specialized areas; selected and blended different classes of Bert-like models to 
 pursue better performance on small text data obtained from medical illustration videos; 
